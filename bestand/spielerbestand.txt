@@ -1,0 +1,2 @@
+schnizou;true
+marina;false

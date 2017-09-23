@@ -1,0 +1,16 @@
+Frage;Antwort;eFA;zFA;dFA
+Welche ist die beste Deutsche Mannschaft?;Werder Bremen;Bayern München;HSV;Waldhof Mannheim
+Wer wurde 2017 Deutscher Meister?;FC Bayern München;Borussia Dortmund;Waldhof Mannheim;Werder Bremen
+Wer wurde 2016 Deutscher Meister?;FC Bayern München;Borussia Dortmund;VFL Wolfburg;SV Meppen
+Wer wurde 2015 Deutscher Meister?;FC Bayern München;HSV;Waldhof Mannheim;Werder Bremen;
+Wer wurde 2014 Deutscher Meister?;FC Bayern München;Borussia Dortmund;VFL Wolfsburg;Rot Weiß Essen
+Wer wurde 2013 Deutscher Meister?;FC Bayern München;HSV;Waldhof Mannheim;FC Schalke 04
+Wer wurde 2012 Deutscher Meister?;Borussia Dortmund;FC Bayern München;HSV;Waldhof Mannheim
+Wer wurde 2011 Deutscher Meister?;Borussia Dortmund;FC Bayern München;Hannover 96;Waldhof Mannheim
+Wer wurde 2010 Deutscher Meister?;FC Bayern München;FC Schalke 04;VFB Stuttgard;TSV 1860 München
+Wer wurde 2009 Deutscher Meister?;VFL Wolfsburg;FC Bayern München;VFB Stuttgart;Waldhof Mannheim
+Wer wurde 2008 Deutscher Meister?;FC Bayern München;HSV;Waldhof Mannheim;VFB Stuttgart
+Wer wurde 2007 Deutscher Meister?;VFB Stuttgart;FC Bayern München;Borussia Dortmund;1. FC Kaiserslautern
+Wer wurde 2006 Deutscher Meister?;FC Bayern München;HSV;Waldhof Mannheim; Hertha BSC
+Wer wurde 2005 Deutscher Meister?;FC Bayern München;HSV;Waldhof Mannheim;Bayer 04 Leverkusen
+Wer wurde 2004 Deutscher Meister?;Werder Bremen;Bayern München;VFB Stuttgart;Waldhof Mannheim
